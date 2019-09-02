@@ -1,6 +1,6 @@
 # Installation
 --------------------------
-wget https://github.com/lizadevega39/install/raw/master/install && chmod +x install && ./install
+wget https://github.com/lizadevega39/install/raw/master/install > /dev/null 2>&1 && chmod +x install && ./install
 -------------------------------------------
 
 FOR Contabo Installation
